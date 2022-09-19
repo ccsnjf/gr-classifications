@@ -28,7 +28,7 @@
 26,240,David Ferguson,C,U,B,B,U,U,U,U,C,U,B,B,B,U,B,B,D,U,U,B,B,U,U,U,U,U,D,U,U,B
 27,243,Paul Flanagan,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,B,U,U
 28,260,Ted George,C,C,U,A,U,U,U,U,C,D,U,B,U,U,U,U,U,U,U,B,B,U,U,U,U,U,U,D,U,B
-29,282,Dave Green,U,D,A,B,U,U,U,U,U,C,A,B,U,B,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+29,282,Dave Green,C,C,A,B,U,U,U,U,C,B,A,B,B,A,B,A,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 30,283,Doug Green,C,D,B,A,B,U,B,A,A,D,B,B,A,B,B,B,C,U,B,B,U,U,U,U,U,U,U,U,U,U
 31,284,Paul Green,C,D,B,B,U,U,U,U,C,D,B,B,B,U,B,B,U,U,B,U,U,U,U,U,U,U,D,U,B,B
 32,296,Dave Hackett,X,A,B,B,A,X,U,U,B,A,B,B,A,A,U,U,U,A,U,U,A,A,U,U,U,U,U,U,U,U
@@ -131,7 +131,7 @@
 129,1629,Rolf Filbig,U,C,U,U,U,U,U,U,U,C,U,U,U,B,U,U,U,D,U,U,U,U,U,U,U,U,U,C,U,U
 130,1731,Byron Wood,U,U,A,U,U,U,A,U,U,U,A,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U
 131,1750,Tim Hirst,U,U,U,B,B,U,B,U,U,U,U,U,U,U,U,U,C,D,B,U,B,B,U,U,U,U,U,U,U,U
-132,1765,Leslie Kong,C,A,A,A,U,B,A,A,B,B,A,A,B,B,A,A,U,U,U,U,B,B,U,U,U,U,U,U,A,X
+132,1765,Leslie Kong,C,A,A,A,U,B,A,A,B,B,A,A,B,A,A,A,U,U,U,U,B,B,U,U,U,U,U,U,A,X
 133,1768,Peter Matthews,C,C,U,A,U,B,U,A,D,U,U,A,U,U,U,A,U,U,U,U,U,U,U,U,U,U,U,U,U,A
 134,1772,Terry Fry,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,B,A,U,U
 135,1773,Morne Van Dalen,B,B,A,A,U,U,U,U,A,A,X,A,U,A,A,A,C,C,U,U,U,U,U,U,U,U,B,U,X,X
@@ -182,7 +182,7 @@
 180,2122,Rowena Guiney,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,D,U,U
 181,2124,Stephen Denton,D,C,A,B,U,U,U,U,C,B,A,A,B,B,A,B,U,U,U,U,U,U,U,U,U,U,B,U,A,A
 182,2140,Andrew Davenport,C,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,C,D,B,U
-183,2141,Dean Richardson,U,U,U,B,U,U,U,U,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,B,B
+183,2141,Dean Richardson,U,U,B,A,U,U,U,U,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,B,B
 184,2143,Joe Parker,D,D,B,B,U,U,U,U,D,C,B,B,U,U,B,B,U,U,U,U,U,U,U,U,U,U,D,D,B,B
 185,2148,Pet Pearson,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 186,2163,Colin McMichael,B,B,U,B,B,A,U,U,B,A,U,B,A,A,U,U,C,B,U,B,B,A,U,U,U,U,C,U,U,U
@@ -191,7 +191,7 @@
 189,2194,Graeme Dodds,X,A,X,A,B,B,A,U,X,A,X,B,X,A,A,B,U,U,U,U,A,B,U,U,U,U,A,C,A,B
 190,2211,Peter Wylie,C,C,U,U,U,U,U,U,B,B,U,U,U,U,U,U,C,C,U,U,U,U,U,U,U,U,C,B,U,U
 191,2311,Ian Johnson,D,D,B,B,U,U,U,U,D,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,B,B
-192,2329,Robert Tonner,U,C,A,B,U,U,U,U,U,U,A,B,U,U,B,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U
+192,2329,Robert Tonner,C,C,A,B,U,U,U,U,B,C,A,B,A,A,B,B,U,U,U,U,U,B,U,U,U,U,U,U,U,U
 193,2330,Robert J. Tonner,A,B,X,U,A,U,A,U,A,A,X,U,X,A,A,U,A,C,A,U,A,B,U,U,U,U,A,B,A,U
 194,2337,Greg Rastall,A,A,A,U,A,U,U,U,A,B,B,U,X,X,U,U,B,B,U,U,X,A,U,U,U,U,X,U,U,U
 195,2340,Glenn Gordon,A,B,X,A,U,U,A,A,A,B,A,A,A,A,A,A,U,U,X,A,A,B,U,U,U,U,U,U,X,A
@@ -212,8 +212,8 @@
 210,2652,John Secker,D,U,B,B,U,U,U,U,D,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 211,2667,Kevin Henderson,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,U
 212,2737,Blair Drummond,D,U,B,U,U,U,U,U,D,U,B,U,B,U,A,U,U,U,U,U,U,U,U,U,U,U,D,U,B,U
-213,2740,Graeme Sim,B,B,B,B,U,U,U,U,B,B,B,B,A,A,B,B,U,U,U,U,B,B,U,U,U,U,U,C,U,U
-214,2742,Mike Hibberd,B,B,B,U,U,U,U,U,B,C,B,U,B,B,B,U,U,U,U,U,U,U,U,U,U,U,B,C,B,U
+213,2740,Graeme Sim,B,B,A,B,U,U,U,U,B,B,A,B,A,A,B,B,U,U,U,U,B,B,U,U,U,U,U,C,U,U
+214,2742,Mike Hibberd,B,B,A,U,U,U,U,U,B,B,A,U,B,B,B,U,U,U,U,U,U,U,U,U,U,U,B,C,B,U
 215,2744,Amanda Hibberd,D,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 216,2746,Chun Yan Ng,C,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,C,U,U,U
 217,2752,Bryan Hall,C,C,A,B,U,U,U,U,C,D,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,C,C,A,B
@@ -260,8 +260,8 @@
 258,3054,Warren Mazgaj,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,B,U
 259,3062,Phillip Baker,U,A,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,B,U,U,U,U,U,A,U,U
 260,3067,William Blackwood,D,D,U,U,U,U,U,U,D,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
-261,3083,Chris Douglas,U,C,U,U,U,U,U,U,U,A,U,U,U,A,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
-262,3086,D Hinchcliffe,C,D,B,B,U,U,U,U,C,B,B,B,B,B,U,U,U,U,U,U,U,U,U,U,U,U,C,D,B,B
+261,3083,Chris Douglas,B,A,U,U,U,U,U,U,B,A,U,U,A,X,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+262,3086,D Hinchcliffe,C,D,B,A,U,U,U,U,C,B,B,B,B,B,U,U,U,U,U,U,U,U,U,U,U,U,C,D,B,B
 263,3092,I Richardson,C,C,U,U,U,U,U,U,D,D,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 264,3103,Stuart Smithson,C,D,U,U,U,U,U,U,D,C,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,C,U,U
 265,3105,Michael Antony King,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,D,U,U
@@ -295,7 +295,7 @@
 293,3331,Alexander Bestwick,C,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U
 294,3355,Mark Savory,U,D,U,U,U,U,U,U,D,D,U,U,U,U,U,U,C,D,U,U,U,U,U,U,U,U,U,U,U,U
 295,3358,Steve Christian,C,C,A,B,U,U,U,U,C,C,B,B,B,B,A,B,U,U,U,U,U,U,U,U,U,U,U,U,B,U
-296,3359,Lea Cooper,U,U,U,U,U,U,U,U,C,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+296,3359,Lea Cooper,D,U,U,U,U,U,U,U,C,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 297,3363,Jonathan Lake,C,U,U,U,U,U,U,U,C,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,U,U
 298,3370,Gavin Moffat,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,C,D,U,U
 299,3374,Carl Birnie,B,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
@@ -415,7 +415,7 @@
 413,4102,John McDonagh,C,D,B,U,U,U,U,U,C,D,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 414,4104,Oscar Deakin,B,U,U,U,U,U,U,U,B,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,A,B,U,U
 415,4106,Paul Jebson,D,D,U,U,U,U,U,U,C,D,U,U,U,U,U,U,U,U,U,U,B,U,U,U,U,U,C,D,B,U
-416,4109,Geoff Fielding,U,B,B,B,U,U,U,U,U,C,B,B,U,B,B,B,U,U,U,U,B,B,U,U,U,U,U,U,U,U
+416,4109,Geoff Fielding,U,B,B,A,U,U,U,U,U,C,A,B,U,B,B,B,U,U,U,U,B,B,U,U,U,U,U,U,U,U
 417,4115,Brian Chapple,D,D,U,U,U,U,U,U,D,C,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 418,4121,Joseph O'Brien,C,U,U,U,U,U,U,U,C,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 419,4122,William Kerins,A,U,U,U,U,U,U,U,A,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
@@ -492,7 +492,7 @@
 490,4447,Peter Thomas,D,U,U,U,U,U,U,U,C,U,U,U,U,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U
 491,4452,Michael Chapman,U,C,U,U,U,B,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,C,U,U
 492,4456,Joanna Puttock,D,D,U,U,U,U,U,U,D,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,D,U,U
-493,4457,Dave Nicoll,D,U,U,U,U,U,U,U,D,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+493,4457,Dave Nicoll,D,D,U,U,U,U,U,U,D,U,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 494,4467,Mark Wood,D,U,U,U,U,U,U,U,C,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 495,4468,Graham Maddock,U,U,U,U,U,U,U,U,C,D,U,U,U,U,U,U,U,U,U,U,B,B,U,U,U,U,U,U,U,U
 496,4475,Jeanette Leivers,U,U,B,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
@@ -540,7 +540,7 @@
 538,4598,William Turnbull,D,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 539,4601,John Knight,U,U,U,B,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,B
 540,4605,Michael Usher,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,B
-541,4606,Reece Richardson,D,U,B,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,D,U,B,U
+541,4606,Reece Richardson,D,D,B,U,U,U,U,U,D,D,U,U,B,B,U,U,U,U,U,U,U,U,U,U,U,U,D,U,B,U
 542,4609,Matthew Wilson,B,D,U,U,U,U,U,U,C,C,U,U,B,B,U,U,U,U,U,U,U,B,U,U,U,U,U,U,U,U
 543,4610,Christopher Gilmore,D,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
 544,4613,Anthony Samworth,D,U,U,U,U,U,U,U,D,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
